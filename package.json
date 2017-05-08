@@ -1,0 +1,22 @@
+{
+  "name": "exemplohttp",
+  "version": "1.0.0",
+  "description": "Exemplo de requisição http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rodolfobeletatti/exemplohttp.git"
+  },
+  "author": "Rodolfo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfobeletatti/exemplohttp/issues"
+  },
+  "homepage": "https://github.com/rodolfobeletatti/exemplohttp#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
